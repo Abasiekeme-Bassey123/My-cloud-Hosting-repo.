@@ -1,0 +1,107 @@
+* {
+  border: 0;
+  padding: 0;
+}
+
+.logotext {
+  /* font-size: 20px; */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.navbar-container {
+  width: 300px;
+  position: fixed;
+  left: 950px;
+  top: 17px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar-container div {
+}
+
+.box-1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.box-2 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.box-3 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.boxlink {
+  text-decoration: none;
+  color: black;
+}
+
+.boxlink:hover {
+  text-decoration: none;
+  color: blue;
+}
+
+.introtext-container {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.textarea-1heading {
+  font-size: 30px;
+  position: absolute;
+  left: 50px;
+  top: 100px;
+}
+
+.textarea-1paragraph {
+  font-size: 30px;
+  position: absolute;
+  left: 50px;
+  top: 230px;
+}
+
+.thebutton {
+  width: 250px;
+  height: 70px;
+  border: 1px solid black;
+  border-radius: 45px;
+  position: absolute;
+  background-color: black;
+  top: 500px;
+  left: 40px;
+}
+
+.thebuttontext {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: white;
+  position: absolute;
+  top: 500px;
+  left: 73px;
+}
+
+.textlink {
+  text-decoration: none;
+  color: white;
+}
+
+.imgparent {
+  position: absolute;
+  left: 800px;
+}
+
+
+/* @media all and (orientation: portrait) {
+  .logotext {
+    text-align: center;
+  }
+
+  .box-1 {
+    text-align: center;
+  }
+} */
